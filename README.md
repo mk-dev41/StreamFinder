@@ -1,4 +1,6 @@
 ** Source code will be released later. **
+Download link: https://github.com/mk-dev41/StreamFinder/releases/download/v1.0.0/StreamFinder.zip
+
 
 StreamFinder V1.0.0
 
