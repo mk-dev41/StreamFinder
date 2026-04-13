@@ -1,9 +1,8 @@
 ** Source code will be released later. **
 
-Download link: https://github.com/mk-dev41/StreamFinder/releases/download/v1.0.0/StreamFinder.zip
+Download link: https://github.com/mk-dev41/StreamFinder/releases/download/v1.1/StreamFinder_Setup.exe 
 
-
-StreamFinder V1.0.0
+StreamFinder V1.1
 
 - A professional desktop application to search and watch LowTierGod (Dale Wilson) streams by date. Built with Python and CustomTkinter.
 
