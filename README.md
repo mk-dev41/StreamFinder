@@ -1,15 +1,8 @@
-** Source code will be released later. **
-
 Download link: https://github.com/mk-dev41/StreamFinder/releases/download/v1.1/StreamFinder_Setup.exe 
 
 StreamFinder V1.1
 
-- A professional desktop application to search and watch LowTierGod (Dale Wilson) streams by date. Built with Python and CustomTkinter.
-
-System Requirements:
-- Windows 10 or later
-- Internet connection for streaming
-- 50 MB free disk space
+- A professional desktop application to search and watch LowTierGod streams by date. -
 
 1. Download the latest release from the link above
 2. Run StreamFinder_Setup.exe (or extract the portable version)
@@ -20,19 +13,19 @@ System Requirements:
 ---------------------------------------
 Features:
 
-🔍 Smart Date Search	
+- Smart Date Search	
 Natural language parsing (Yesterday, 3 days ago, Jan 15, etc.)
 
-🎯 Multiple Sources	Searches 
+- Multiple Sources	Searches 
 built-in database + your custom streams
 
-📺 Built-in Player
+- Built-in Player
 HTML5 player for archive.org streams with controls
 
-➕ Add Your Own Streams
+- Add Your Own Streams
 Custom stream manager with notes
 
-⌨️ Keyboard Shortcuts
+= Keyboard Shortcuts
 Quick navigation with arrow keys and hotkeys
 
 🎲 Random Date
