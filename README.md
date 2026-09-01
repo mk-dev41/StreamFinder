@@ -1,34 +1,27 @@
-Download link: https://github.com/mk-dev41/StreamFinder/releases/download/v1.1/StreamFinder_Setup.exe 
+A professional desktop application initially built to watch LowTierGod streams by date. Built with Python and CustomTkinter. One can modify the option space and tinker with the app to create a searcher tailored to their own taste, though. This can be done by utilizing the 'modify streams' and 'add streams' button, where one can input (and remove) any link of their choice.
 
-StreamFinder V1.1
+System Requirements:
 
-- A professional desktop application to search and watch LowTierGod streams by date. -
+Windows 10 or later
+Internet connection for streaming
+50 MB free disk space
+Download the latest release from the link above
+Run StreamFinder_Setup.exe (or extract the portable version)
+Enter a date like "1/1/25", "yesterday", or "3 days ago"
+Click Search or press Enter
+Click any link to watch the stream
 
-1. Download the latest release from the link above
-2. Run StreamFinder_Setup.exe (or extract the portable version)
-3. Enter a date like "1/1/25", "yesterday", or "3 days ago"
-4. Click Search or press Enter
-5. Click any link to watch the stream
-   
----------------------------------------
 Features:
 
-- Smart Date Search	
-Natural language parsing (Yesterday, 3 days ago, Jan 15, etc.)
+🔍 Smart Date Search Natural language parsing (Yesterday, 3 days ago, Jan 15, etc.)
 
-- Multiple Sources	Searches 
-built-in database + your custom streams
+🎯 Multiple Sources Searches built-in database + your custom streams
 
-- Built-in Player
-HTML5 player for archive.org streams with controls
+📺 Built-in Player HTML5 player for archive.org streams with controls
 
-- Add Your Own Streams
-Custom stream manager with notes
+➕ Add Your Own Streams Custom stream manager with notes
 
-= Keyboard Shortcuts
-Quick navigation with arrow keys and hotkeys
+⌨️ Keyboard Shortcuts Quick navigation with arrow keys and hotkeys
 
-🎲 Random Date
-Discover random streams from the database
+🎲 Random Date Discover random streams from the database
 
------------------------------------------
