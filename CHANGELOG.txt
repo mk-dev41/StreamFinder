@@ -1,0 +1,20 @@
+v1.0.0 - Initial Release
+-----------------------
+- Initial release with built-in stream database
+- Date search with genuine language support
+- Built-in HTML5 player for archive.org streams
+- Add/remove your own stream links
+- Keyboard shortcuts for navigation
+- Random date selection
+- Search history
+
+V.2.1.0 
+-----------------------
+- Added three months worth of streams! 
+- Heavily modified the UI of the app
+- *The user can now add their own streams via the 'add stream' button within the app.*
+
+V.2.1.1
+------------------------
+- Added four months worth of streams!
+- Changed the text within the app
