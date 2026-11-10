@@ -1,0 +1,39 @@
+name: Update stream list
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-streams
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Add new streams from archive.org
+        run: python update_streams.py
+
+      - name: Commit streams.txt if it changed
+        run: |
+          if git diff --quiet -- streams.txt; then
+            echo "No new streams."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streams.txt
+          git commit -m "Add new streams"
+          git push
