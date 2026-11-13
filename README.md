@@ -1,4 +1,4 @@
-A professional desktop application initially built to watch LowTierGod streams by date. Built with Python and CustomTkinter. One can modify the option space and tinker with the app to create a searcher tailored to their own taste, though. This can be done by utilizing the 'modify streams' and 'add streams' button, where one can input (and remove) any link of their choice.
+A desktop application initially built to watch LowTierGod streams by date. Built with Python and CustomTkinter. One can modify the option space and tinker with the app to create a searcher tailored to their own taste, though. This can be done by utilizing the 'modify streams' and 'add streams' button, where one can input (and remove) any link of their choice.
 
 Features:
 
